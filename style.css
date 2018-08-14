@@ -1,0 +1,27 @@
+body{
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    padding-top: 20vh;
+    vertical-align: middle;
+    height: 100vh;
+}
+.title{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.button{
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    color: steelblue;
+    border-radius: 5px;
+    font-weight: 700;
+    letter-spacing: 1px;
+
+
+}
